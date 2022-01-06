@@ -1,2 +1,2 @@
-# ushi
-ushi repository
+# Ushi
+Ushi repository
